@@ -1,8 +1,6 @@
 # Data-Visuals-Matplot-vs-Seaborn-
 Comparison of Matplotlib vs Seaborn for data visualization with side-by-side plots, analysis, and best practices.
 
-The Attached Document is the content file of the comparison.
-File name: Visual Matplot & seaborn.pdf
 
 This project explores the differences between Matplotlib and Seaborn by implementing the same charts in both libraries. It covers:
 1. Line plots
